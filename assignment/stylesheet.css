@@ -3,3 +3,8 @@ header {
     color: #98ff98;
     text-align: center;
 }
+
+main {
+    background-color: lightgray;
+    background-image: url("./record.png");
+}
