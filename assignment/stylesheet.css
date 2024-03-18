@@ -1,11 +1,17 @@
 header {
-    background-color: #834892;
-    color: #98ff98;
-    text-align: center;
+background-color: #834892;
+color: #98ff98;
+text-align: center;
 }
 
 main {
     background-color: lightgray;
-    background-image: url("./record.png");
+    padding: 1em;
+    
+}
+
+body {
+    margin: 0;
+    background-image: url('./record.png');
     background-repeat: repeat;
 }
